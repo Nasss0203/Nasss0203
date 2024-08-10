@@ -5,6 +5,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nasss0203&theme=blueberry&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasss0203&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
--   Mặc định của biến trong Rust là bất biến (immutable)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Nasss0203&icon=2&color=12)](https://visitcount.itsvg.in)
